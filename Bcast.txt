@@ -1,0 +1,13 @@
+国际，#genre#
+
+Bloomeberg，https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+CNN，http://89.254.128.5:22280/cnn/video.m3u8
+CNNUSA，https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNBCindonesia，https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
+AlJazeeraEnglish，https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+Bloomberg TV+，https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+Fox，https://stream01.vnet.am/Fox/mono.m3u8
+Fox News Channel，http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+FOX News Now，https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+NHK World Japan，https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK G (Tokyo) (720p)，http://203.162.235.41:14093
